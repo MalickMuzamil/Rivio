@@ -21,22 +21,17 @@
 ## 🛠️ Getting Started
 Clone the repository and install dependencies:
 
-npm install
-# or
-yarn install
+1- npm install
+
 Then run the development server:
 
-npm run dev
-# or
-yarn dev
-Open http://localhost:3000 in your browser to see the result.
+1- npm run dev
+
+2- Open http://localhost:3000 in your browser to see the result.
 
 ---
 
 ## 📁 Project Structure
-ruby
-Copy
-Edit
 rivio/
 ├── app/
 │   └── page.tsx        # Main landing page
@@ -48,15 +43,21 @@ rivio/
 
 ---
 ## 📚 Learn More
+
 🔗 Next.js Documentation
+
 🔗 Tailwind CSS Docs
+
 🔗 Vercel Fonts
+
 🔗 Learn Next.js Tutorial
 
 ---
 
 ## 🧑‍💻 Author Made with ❤️ by MalickMuzamil 
+
 📫 malikmuzamil92110@gmail.com 
+
 🔗 LinkedIn 📫 https://www.linkedin.com/in/malik-muzamil/
 
 ---
