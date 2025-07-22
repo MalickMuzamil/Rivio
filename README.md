@@ -32,13 +32,21 @@ Then run the development server:
 ---
 
 ## 📁 Project Structure
+
 rivio/
+
 ├── app/
+
 │   └── page.tsx        # Main landing page
+
 ├── public/             # Static assets
+
 ├── styles/             # Tailwind & global styles
+
 ├── components/         # Reusable UI components
+
 ├── tailwind.config.ts  # Tailwind config
+
 └── next.config.js      # Next.js config
 
 ---
