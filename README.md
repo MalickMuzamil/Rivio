@@ -69,4 +69,4 @@ rivio/
 
 ---
 
-“Design is intelligence made visible.” – Alina Wheeler
+“Design is intelligence made visible.”
